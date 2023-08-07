@@ -9,6 +9,9 @@ The user provides:
 
 The type of speaker (e.g., "Man speaking", "Woman speaking").
 The name of the first audio file in the dataset. The script automatically deduces the naming pattern for the subsequent files.
+
+If you want to continue the segment enter the number you left off on or enter 0 to start saving the files from 0
+
 Text Data Loading:
 Based on the provided first audio file, the script identifies and loads the associated transcript text file. This file contains mappings of file names to the spoken content.
 

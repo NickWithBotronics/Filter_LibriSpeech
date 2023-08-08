@@ -23,3 +23,10 @@ Each combined audio segment is saved in .wav format. A corresponding text file i
 
 Completion:
 After processing all files, the script informs the user that the operation is complete.
+
+The second script num.py will tell you how many gb and mb your file is like this:
+PS C:\Users\PC\Desktop> py num.py
+Enter the directory path to search for WAV files: C:\Users\PC\Desktop\SupazDataset
+Total duration of WAV files: 7 hours, 41 minutes, 45.71 seconds.
+Total size of WAV files: 0.83 GB (845.56 MB)
+PS C:\Users\PC\Desktop>
